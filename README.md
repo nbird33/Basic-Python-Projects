@@ -1,4 +1,4 @@
-# Basic-Python-Projects
+Python-Projects
 
 Collection of basic python projects first coded my senior year of university in 2021.
 
